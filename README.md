@@ -1,4 +1,4 @@
-<!-- MAXA CYBER — PREMIUM GITHUB PROFILE -->
+<!-- MAXA CYBER — ULTRA PREMIUM GITHUB PROFILE -->
 
 <div align="center">
 
@@ -8,17 +8,14 @@
 
 ### `root@maxaCyber:~# whoami`
 
-**Cybersecurity Enthusiast · Python Developer · Linux Explorer**
-
-Building tools. Automating workflows. Exploring systems.
-
-<br/>
-
-<a href="https://github.com/nameuser71/maxaCyber">
-  <img src="https://img.shields.io/badge/GitHub-09090F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Python+Developer;Linux+%26+OSINT+Explorer;Security+Tools+Creator" alt="Typing SVG" />
 </a>
-<a href="https://github.com/nameuser71/maxaCyber">
-  <img src="https://img.shields.io/badge/PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=09090F" alt="Project"/>
+
+<br/><br/>
+
+<a href="https://github.com/nameuser71">
+  <img src="https://img.shields.io/badge/GitHub-09090F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </a>
 <a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python"/>
@@ -40,140 +37,17 @@ Building tools. Automating workflows. Exploring systems.
 ```python
 class MAXACyber:
     def __init__(self):
-        self.role = "Developer & Cybersecurity Enthusiast"
-        self.languages = ["Python", "HTML", "CSS", "JavaScript"]
-        self.environment = ["Linux", "Kali Linux", "Windows"]
+        self.role = "Cybersecurity Researcher & Developer"
+        self.languages = ["Python", "Bash", "C++", "JavaScript", "HTML/CSS"]
+        self.environment = ["Kali Linux", "Debian", "Ubuntu", "Windows"]
         self.interests = [
-            "Cybersecurity",
-            "OSINT",
-            "Automation",
-            "Backend Development"
+            "Network Reconnaissance",
+            "OSINT & Threat Intelligence",
+            "Web Security & Fuzzing",
+            "Log Analysis & Intrusion Detection"
         ]
 
     def current_mission(self):
-        return "Learn. Build. Test. Improve."
+        return "Build security tools. Test systems. Automate workflows."
 
 me = MAXACyber()
-```
-
-- 🔐 Exploring cybersecurity and defensive security.
-- 🐍 Developing Python tools and automation scripts.
-- 🐧 Learning Linux, networking and system administration.
-- ⚙️ Building practical projects to improve my engineering skills.
-
----
-
-## `/02` — Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ Cyber Pulse
-
-**`Python` · `Monitoring`**
-
-A project for exploring system and network monitoring workflows.
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Log Sentinel
-
-**`Python` · `Log Analysis`**
-
-A project focused on log inspection and security-oriented analysis.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/nameuser71/maxaCyber">
-  <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-00E5FF?style=for-the-badge&logo=github&logoColor=000000" alt="Explore projects"/>
-</a>
-
-</div>
-
----
-
-## `/03` — Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" alt="Programming languages"/>
-
-**Tools & Environments**
-
-<img src="https://skillicons.dev/icons?i=linux,kali,bash,git,github,vscode&theme=dark" alt="Developer tools"/>
-
-</div>
-
----
-
-## `/04` — GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/nameuser71">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nameuser71&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=9D7BFF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
-</a>
-
-<a href="https://github.com/nameuser71">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameuser71&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=C9D1D9" alt="Most used languages"/>
-</a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=nameuser71&theme=transparent&hide_border=true&ring=00E5FF&fire=9D7BFF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=808080" alt="GitHub contribution streak" width="80%"/>
-
-</div>
-
----
-
-## `/05` — Current Mission
-
-```text
-[ ACTIVE ] Python Development
-[ ACTIVE ] Linux & Networking
-[ ACTIVE ] Cybersecurity Fundamentals
-[ ACTIVE ] Automation Projects
-[ NEXT   ] Build. Test. Improve.
-```
-
----
-
-## `/06` — Connect
-
-<div align="center">
-
-Interested in development, Linux, automation or cybersecurity?
-
-**Let's learn, build and share knowledge.**
-
-<br/>
-
-<a href="https://github.com/nameuser71">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<!-- Replace the links below with your actual social profile URLs. -->
-
-<a href="YOUR_TELEGRAM_URL">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-
-<a href="YOUR_INSTAGRAM_URL">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00E5FF,50:31105E,100:09090F" width="100%" alt="Footer banner"/>
-
-<sub>© maxaCyber · Learn continuously. Build responsibly.</sub>
-
-</div>
